@@ -25,7 +25,7 @@ Hi there 👋! I'm Ngoni. I am a PhD candidate in the Power Electronics Group at
 
 <hr>
 
-🔭 I’m currently working on my thesis. I am nearing the end of my studies, and I couldn't be more excited!
+🔭 I’m currently working on my PhD thesis. I am nearing the end of my studies, and I couldn't be more excited!
 
 💬 Ask me about C++, algorithms and data structures and entrepreneurship.
 
