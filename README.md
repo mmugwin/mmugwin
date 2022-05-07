@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Ngoni, better known as MN among friends. I am a PhD candidate in the Power Electronics Group at the University of Oxford. 
+
+- 🔭 I’m currently working on my thesis. I am nearing the end of my studies, and I couldn't be more excited!
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about C++, algorithms and data structures and entrepreneurship
+- 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/ngoni-mugwisi/)
+- ⚡ Fun fact: I ran a [solo marathon](https://www.trinity.ox.ac.uk/news/solo-marathon-birthday-celebration-trinity-postgraduate) during the 2020 lockdown in 3h30min to raise money for Education Matters 
 
 <!--
 **mmugwin/mmugwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
