@@ -1,12 +1,23 @@
-### Hi there! 👋
+<strong>Hi there!</strong> 👋
 
-I'm Ngoni, better known as MN among friends. I am a PhD candidate in the Power Electronics Group at the University of Oxford. 
+I'm Ngoni, better known as MN. I am a PhD candidate in the Power Electronics Group at the University of Oxford on the Rhodes Scholarship. 
 
-- 🔭 I’m currently working on my thesis. I am nearing the end of my studies, and I couldn't be more excited!
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about C++, algorithms and data structures and entrepreneurship
-- 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/ngoni-mugwisi/)
-- ⚡ Fun fact: I ran a [solo marathon](https://www.trinity.ox.ac.uk/news/solo-marathon-birthday-celebration-trinity-postgraduate) during the 2020 lockdown in 3h30min to raise money for Education Matters 
+🔭 I’m currently working on my thesis. I am nearing the end of my studies, and I couldn't be more excited!
+
+💬 Ask me about C++, algorithms and data structures and entrepreneurship.
+
+📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/ngoni-mugwisi/)
+
+⚡ Fun fact: I ran a [solo marathon](https://www.trinity.ox.ac.uk/news/solo-marathon-birthday-celebration-trinity-postgraduate) during the 2020 lockdown in 3h30min to raise money for Education Matters.
+
+<hr>
+<strong>Skills</strong>
+- C++, Python, JavaScript and MATLAB
+- Web development with the MERN stack
+- Git
+- GNU toolchain
+- Finite Element Analysis
+- PCB design and layout
 
 <!--
 **mmugwin/mmugwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
