@@ -17,6 +17,8 @@ Hi there 👋! I'm Ngoni. I am a PhD candidate in the Power Electronics Group at
 - GNU toolchain
 - Finite Element Analysis
 - PCB design and layout
+- Raspberry Pi
+- HTML, CSS, Heroku, PostgreSql
 
 
 <strong>Other info</strong>
